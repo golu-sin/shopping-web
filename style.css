@@ -10,6 +10,7 @@
     background-color: black;
     color: white;
     display: flex;
+    align-items: center;
 }
 
 .nav-logo{
@@ -38,13 +39,16 @@
 .add-first{
     color: #cccccc;
     font-size: 0.85rem;
+    margin-left: 15px;
 }
 
 .add-sec{
     
     font-size: 1rem;
+    margin-left: 3px;
 }
 
 .add-icon{
     display: flex;
+    align-items: center;
 }
