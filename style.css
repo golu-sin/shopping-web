@@ -9,6 +9,7 @@
     height: 60px;
     background-color: black;
     color: white;
+    display: flex;
 }
 
 .nav-logo{
@@ -31,3 +32,5 @@
 .border:hover{
     border: 1.5px solid white;
 }
+
+/** box2 **/
